@@ -1,4 +1,6 @@
-# Chaquopy: the Python SDK for Android
+https://chatgpt.com/share/6857e423-1af4-8002-b1cb-ed61345b12cd
+
+ Chaquopy: the Python SDK for Android
 
 Chaquopy provides everything you need to include Python components in an Android app,
 including:
